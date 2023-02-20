@@ -50,7 +50,7 @@ legs__toenails--shiny
 ```
     section.card>h2.card__heading+
 ```
-![card](/img/card.jpg)
+![card](img/card.jpg)
 
 ### Section
 
