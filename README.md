@@ -34,14 +34,14 @@ legs__toenails--shiny
 ### Header
 
 ```
-    header.header>div.header__wrapper>a.header__logo.logo>img.logo__img^nav.header__nav.nav>ul.nav__list>li.nav__item*4>a.nav__link*4^^^a.nav__phone
+    header.header>div.header__wrapper>a.header__logo.logo>img.logo__img^nav.header__nav.nav>ul.nav__list>li.nav__item*4>a.nav__link^^^a.nav__phone
 ```
 ![header](img/header.jpg)
 
 ### Form
 
 ```
-    section.form>div.form__wrapper>h2.form__heading+p.form__description+form.form>(label.form__label+input.form__input)*4+button.form__button+p.form__notification
+    section.form>div.form__wrapper>h2.form__heading+p.form__description+form.form>label.form__label*4>input.form__input+button.form__button+p.form__notification
 ```
 ![form](img/form.jpg)
 
