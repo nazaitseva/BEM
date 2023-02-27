@@ -34,7 +34,7 @@ legs__toenails--shiny
 ### Header
 
 ```
-    header.header>div.header__wrapper>a.header__link>img.header__logo^nav.header__nav.nav>ul.nav__list>(li.nav__item+a.nav__link)*4^^a.nav__number
+    header.header>div.header__wrapper>a.header__logo.logo>img.logo__img^nav.header__nav.nav>ul.nav__list>li.nav__item*4>a.nav__link*4^^^a.nav__phone
 ```
 ![header](img/header.jpg)
 
