@@ -48,13 +48,13 @@ legs__toenails--shiny
 ### Card
 
 ```
-    section.card>div.card__wrapper>h2.card__heading+p.card__description+ul.card__list>(li.card__items.items>img.items__image+p.items__heading+p.items__description+a.items__button)*5
+    section.card>div.card__wrapper>h2.card__heading+p.card__description+ul.card__list>li.card__items.items*5>img.items__image+p.items__heading+p.items__description+a.items__button
 ```
 ![card](img/card.jpg)
 
 ### Section
 
 ```
-    section.benefits>div.benefits__wrapper>h2.benefits__heading+p.benefits__decription+ul.benefits__list>(li.benefits__card.card>img.card__icon+p.card__heading+p.card__description)*3
+    section.benefits>div.benefits__wrapper>h2.benefits__heading+p.benefits__decription+ul.benefits__list>li.benefits__card.card*3>img.card__icon+p.card__heading+p.card__description
 ```
 ![section](img/section.jpg)
